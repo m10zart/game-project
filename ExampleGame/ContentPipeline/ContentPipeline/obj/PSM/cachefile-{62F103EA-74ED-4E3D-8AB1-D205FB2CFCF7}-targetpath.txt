@@ -1,0 +1,9 @@
+Content\myFont.xnb
+Content\arrow.xnb
+Content\blue.xnb
+Content\green.xnb
+Content\red.xnb
+Content\circle.xnb
+Content\diamond.xnb
+Content\star.xnb
+Content\fadeImage.xnb

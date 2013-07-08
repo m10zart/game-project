@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SplashScreen>
+  <Image>
+    <Effects>FadeEffect</Effects>
+    <IsActive>false</IsActive>
+    <Path>arrow</Path>
+    <Position>
+      <X>200</X>
+      <Y>100</Y>
+    </Position>
+    <Alpha>1.0</Alpha>
+    <Scale>
+      <X>2.0</X>
+      <Y>2.0</Y>
+    </Scale>
+  </Image>
+</SplashScreen>

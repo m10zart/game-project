@@ -1,0 +1,13 @@
+C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ContentPipeline\ContentPipeline\bin\PSM\Content\myFont.xnb
+C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ContentPipeline\ContentPipeline\bin\PSM\IgnoreMe.dll
+C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ContentPipeline\ContentPipeline\obj\PSM\ContentPipeline.csprojResolveAssemblyReference.cache
+C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ContentPipeline\ContentPipeline\obj\PSM\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ContentPipeline\ContentPipeline\obj\PSM\IgnoreMe.dll
+C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ContentPipeline\ContentPipeline\bin\PSM\Content\arrow.xnb
+C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ContentPipeline\ContentPipeline\bin\PSM\Content\blue.xnb
+C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ContentPipeline\ContentPipeline\bin\PSM\Content\green.xnb
+C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ContentPipeline\ContentPipeline\bin\PSM\Content\red.xnb
+C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ContentPipeline\ContentPipeline\bin\PSM\Content\circle.xnb
+C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ContentPipeline\ContentPipeline\bin\PSM\Content\diamond.xnb
+C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ContentPipeline\ContentPipeline\bin\PSM\Content\star.xnb
+C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ContentPipeline\ContentPipeline\bin\PSM\Content\fadeImage.xnb

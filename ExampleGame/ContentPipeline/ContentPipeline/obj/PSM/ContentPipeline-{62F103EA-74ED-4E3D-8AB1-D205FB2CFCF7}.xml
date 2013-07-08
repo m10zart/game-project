@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>myFont.spritefont</Source>
+      <Name>myFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>MGSpriteFontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\Documents\Visual Studio 2012\Projects\ExampleGame\ContentPipeline\ContentPipeline\bin\PSM\Content\myFont.xnb</Output>
+      <Time>2013-06-15T23:08:07.7991309-04:00</Time>
+    </Item>
+    <Item>
+      <Source>arrow.png</Source>
+      <Name>arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ContentPipeline\ContentPipeline\bin\PSM\Content\arrow.xnb</Output>
+      <Time>2013-06-22T19:21:16.916922-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blue.png</Source>
+      <Name>blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ContentPipeline\ContentPipeline\bin\PSM\Content\blue.xnb</Output>
+      <Time>2013-06-22T19:30:20.4760118-04:00</Time>
+    </Item>
+    <Item>
+      <Source>green.png</Source>
+      <Name>green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ContentPipeline\ContentPipeline\bin\PSM\Content\green.xnb</Output>
+      <Time>2013-06-22T19:30:20.4800121-04:00</Time>
+    </Item>
+    <Item>
+      <Source>red.png</Source>
+      <Name>red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ContentPipeline\ContentPipeline\bin\PSM\Content\red.xnb</Output>
+      <Time>2013-06-22T19:30:20.4830122-04:00</Time>
+    </Item>
+    <Item>
+      <Source>circle.png</Source>
+      <Name>circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ContentPipeline\ContentPipeline\bin\PSM\Content\circle.xnb</Output>
+      <Time>2013-06-29T21:43:42.3523963-04:00</Time>
+    </Item>
+    <Item>
+      <Source>diamond.png</Source>
+      <Name>diamond</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ContentPipeline\ContentPipeline\bin\PSM\Content\diamond.xnb</Output>
+      <Time>2013-06-29T21:43:42.3433958-04:00</Time>
+    </Item>
+    <Item>
+      <Source>star.png</Source>
+      <Name>star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ContentPipeline\ContentPipeline\bin\PSM\Content\star.xnb</Output>
+      <Time>2013-06-29T21:43:42.348396-04:00</Time>
+    </Item>
+    <Item>
+      <Source>fadeImage.png</Source>
+      <Name>fadeImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ContentPipeline\ContentPipeline\bin\PSM\Content\fadeImage.xnb</Output>
+      <Time>2013-06-30T08:39:43.4287211-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{62F103EA-74ED-4E3D-8AB1-D205FB2CFCF7}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>PSM</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ContentPipeline\ContentPipelineContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ContentPipeline\ContentPipeline\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ContentPipeline\ContentPipeline\obj\PSM\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ContentPipeline\ContentPipeline\bin\PSM\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\MSBuild\MonoGame\v3.0\MonoGameContentProcessors.dll</Key>
+        <Value>2013-02-25T12:21:34-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-06-15T22:03:53.3306679-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

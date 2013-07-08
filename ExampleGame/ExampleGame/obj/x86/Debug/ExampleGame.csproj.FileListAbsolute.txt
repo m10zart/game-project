@@ -1,0 +1,16 @@
+c:\users\joe\documents\visual studio 2012\Projects\ExampleGame\ExampleGame\obj\x86\Debug\ExampleGame.csprojResolveAssemblyReference.cache
+c:\users\joe\documents\visual studio 2012\Projects\ExampleGame\ExampleGame\obj\x86\Debug\ExampleGame.exe
+c:\users\joe\documents\visual studio 2012\Projects\ExampleGame\ExampleGame\obj\x86\Debug\ExampleGame.pdb
+C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ExampleGame\Content\1.xnb
+C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ExampleGame\Content\arrow.xnb
+C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ExampleGame\Content\blue.xnb
+C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ExampleGame\Content\green.xnb
+C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ExampleGame\Content\red.xnb
+C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ExampleGame\SDL.dll
+C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ExampleGame\ExampleGame.exe
+C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ExampleGame\ExampleGame.pdb
+C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ExampleGame\Lidgren.Network.dll
+C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ExampleGame\MonoGame.Framework.dll
+C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ExampleGame\OpenTK.dll
+C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ExampleGame\Tao.Sdl.dll
+C:\Users\Joe\documents\visual studio 2012\Projects\ExampleGame\ExampleGame\Content\Fonts\myFont.xnb
